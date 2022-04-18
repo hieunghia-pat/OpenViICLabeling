@@ -1,8 +1,8 @@
-VQA Labeling Tool for Vietnamese Visual Question Answering
+Labeling Tool for Vietnamese Open-domain Image Captioning
 ---
 
 ### University of Information Technology
 
 ### Authors:
 - Nghia Hieu Nguyen. Email: [19520178@gm.uit.edu.vn](mailto:19520178@gm.uit.edu.vn)
-- Duong T.D Vo. Email: [19520483@gm.uit.edu.vn](mailto:19520483@gm.uit.edu.vn)
+- Doanh C. Bui. Email: [19521366@gm.uit.edu.vn](mailto:19521366@gm.uit.edu.vn)
